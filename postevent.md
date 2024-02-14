@@ -1,58 +1,27 @@
-# Post Event Report [EVENT NAME] [DATE]
-
-**Use this template to fill out a report about your event. You don't need to include all the sections offered below they are there as a guide, just delete the ones that aren't applicable or add new ones if you feel like there is something missing.** 
-
-**Remember you can use any markdown features, so feel free to add links to the event & of course you can use emoji! :sparkles:** 
-
+# Post Event Report Blind Coding 14 December 2023
 
 ## Attendance :dancers:
 
-*Was it well attended? Was there a diverse attendance in terms of gender, socio-economic class, race? Who was attending - students/professionals/a mix?* 
+The attendance was a little less than expected. We had expected for around 200 - 250 participants but, only around 100 people managed to attend the event. The attendees were mostly freshmen who had limited knowledge about the basics of Computer Science and Github
 
 ## Venue :school:
 
-*Any comments on the venue, did it work well? Include links to the location if you like.*
+We had conducted this event in our Lecture Gallery. We feel that the venue was ample and appropriate for the same.
 
 ## Planning vs Implementation :paperclip:
 
-*Did the schedule change? Or run over?*
 
-*Did you have enough swag? Did everything get to you on time and did anything not get taken by your attendees?* 
+The amount of swag the we had recieved was more than enough. We had distributed all the swags to all the participants and were a little lenient to the winners to take some more swags with them since we had a few extras.
 
-*Also think about including thoughts on your budget (if you were involved in this side of the event), did it work well? Was there any room for better cost saving? Anything that wasn't worth it?*
-
-*Were there any additions?*
-
-*You can also use this section to note anything that wasn't in your original issue.* 
-
-*This might not be the case, but it's useful to note if you needed to run out and buy something to support the event or order food or anything outside of what you expected to deliver - even if that is not related to purchasing things. For example if you ran an extra workshop or did something extra to help out the organising team.* 
 
 ## Positives :+1:
 
-*The good bits - A bullet point list is effective here*
+- The planning and the execution of the event went really well.
+- Everyone, especially the freshers were interested for the next chapter of the event.
+- We had custom build an evalutation tool to evaluate the codes.
+  
 
 ## Negatives :-1:
 
-*The not-so-good bits - A bullet point list is effective here*
-
-## Feedback from Attendees :speech_balloon:
-
-*Feel free to use quotes, lists, screen shots - whatever makes it easiest to share the info (please make sure you have permission to use a person's comments).* 
-
-*Tell us how you got the feedback too - was it done during the event at the end, comments made on social media/community channels or did you put out any formal feedback forms etc.?* 
-
-## What projects did students make with the GitHub Student Developer Pack?
-
-*Did attendees use tools from the Pack? We're curious how students are using the GitHub Student Developer Pack :smile:*
-
-## Social Media Drop 
-
-*Include links here to any posts about the event & your involvement* 
-
-## Photos 
-
-*You can embed any images here - see the [markdown guide](https://guides.github.com/features/mastering-markdown/) for how to do this*
-
-## Summary :thought_balloon:
-
-*Use this section to give your personal overview of the event and how this went for you as a Campus Expert. Would you attend again? Did people talk to you about the program? What kind of vibes did you get for the community?* 
+- The custom evaluation tool that we had build only worked partially.
+- We faced issues regarding result declaration since the evaluation tool did not work as expected.
